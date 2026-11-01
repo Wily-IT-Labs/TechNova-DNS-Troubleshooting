@@ -93,20 +93,16 @@ Updated the DNS server configuration, flushed the DNS resolver cache, and verifi
 The following screenshots document the simulated incident and troubleshooting process.
 
 ### Evidence 1 — DNS Resolution Failure
-
-![DNS Failure](01_DNS_Failure.png.png)
+![DNS Failure](Ticket-1041-DNS-Troubleshooting/01_DNS_Failure.png)
 
 ### Evidence 2 — IP Connectivity Test
-
-![Connectivity Test](02_Connectivity_Test.png.png)
+![Connectivity Test](Ticket-1041-DNS-Troubleshooting/02_Connectivity_Test.png)
 
 ### Evidence 3 — DNS Resolution Restored
-
-![DNS Resolution](03_DNS_Resolution.png.png)
+![DNS Resolution](Ticket-1041-DNS-Troubleshooting/03_DNS_Resolution.png)
 
 ### Evidence 4 — Final Connectivity Verification
-
-![Final Verification](04_Final_Verification.png.png)
+![Final Verification](Ticket-1041-DNS-Troubleshooting/04_Final_Verification.png)
 
 ## 7. Technical Skills Demonstrated
 
